@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONLINE-BANKING-UI", "ONLINE-BANKING-UI\ONLINE-BANKING-UI.csproj", "{2673A6B9-2196-482A-A3ED-F4EEBE1148D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2673A6B9-2196-482A-A3ED-F4EEBE1148D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2673A6B9-2196-482A-A3ED-F4EEBE1148D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2673A6B9-2196-482A-A3ED-F4EEBE1148D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2673A6B9-2196-482A-A3ED-F4EEBE1148D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3790FB-03B3-44BB-B238-82D6F0B605E7}
+	EndGlobalSection
+EndGlobal
